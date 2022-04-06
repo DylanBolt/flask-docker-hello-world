@@ -1,5 +1,5 @@
 *.ipynb_checkpoints
 *.csv
-*.__pycache__
-*.gitattributes
+__pycache__
+.gitattributes
 *.git
