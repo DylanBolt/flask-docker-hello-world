@@ -12,7 +12,6 @@ In this lab I will create a flask app to contain three **routes**:
 To run the container:
 ```
 docker-compose up
-
 ```
 To run the make-request.py file from within the docker container:
 ```
